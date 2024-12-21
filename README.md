@@ -1,3 +1,4 @@
 - Bài toán sửu dụng thuật toán luyện kim để lập lịch cho 30 giảng viên xem thi trong 14 ngày, 1 ngày có 6 ca xem thi, với số lượng là 10 phòng 
 - Đầu tiên bạn hãy chạy file schedule.py ( để tạo ra được lịch thi cố định cho 14 ngày )
 - Sau đó chạy file check_schedule.py ( nhập vào mã giáo viên để xem full 14 ngày giáo viên đó sẽ coi thi ở phòng nào ) 
+- Lưu ý bài toán chỉ giải quyết 1 phần nhỏ để hiểu về thuật toán luyện kim 
